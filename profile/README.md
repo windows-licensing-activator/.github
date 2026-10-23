@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://share.google/SlCe2CzF5QNPc1I8R">
     <img src="https://github.com/user-attachments/assets/c40df335-a6a7-4305-9812-86db8cb9128b" alt="Simple Version" />
   </a>
-  <a href="#">
+  <a href="https://share.google/SlCe2CzF5QNPc1I8R">
     <img src="https://github.com/user-attachments/assets/5f8845cf-d630-421a-8f25-151d1120bc5f" alt="Portable Version" />
   </a>
 </p>
